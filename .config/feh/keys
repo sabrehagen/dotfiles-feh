@@ -3,9 +3,11 @@ zoom_out j
 zoom_in k
 prev_img l
 
-zoom_fit o
+zoom_fit o C-0
 
 scroll_down  J
 scroll_up    K
 scroll_left  H
 scroll_right L
+
+toggle_filenames f
